@@ -5,7 +5,7 @@ import './App.css';
 function App(): JSX.Element {
   return (
     <>
-      <h1>EasyFront</h1>
+      <h1>sdhgf</h1>
     </>
   );
 }
